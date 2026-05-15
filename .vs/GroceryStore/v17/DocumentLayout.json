@@ -1,0 +1,673 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\superadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\superadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\customerreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\customerreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\ordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\ordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\adminordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\adminpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminpaymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\adminordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\adminordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\adminpaymentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminpaymentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\checkoutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\checkoutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\adminproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\adminproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminproductsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\adminproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\adminproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\profileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\profileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/groceryshop_signUp/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\grocerystore\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|c:\\rashed\\c# program\\grocery_store\\grocerystore\\grocerystore\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0566DB0-7BE8-476D-BEFA-0A56985D65EF}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperAdminLogin.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\SuperAdminLogin.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\SuperAdminLogin.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\SuperAdminLogin.cs*",
+              "RelativeToolTip": "GroceryStore\\SuperAdminLogin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:36:10.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerReview.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CustomerReview.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CustomerReview.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CustomerReview.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\CustomerReview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:29:44.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminOrdersForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminOrdersForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminOrdersForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminOrdersForm.cs",
+              "RelativeToolTip": "GroceryStore\\AdminOrdersForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:47:19.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\OrdersForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\OrdersForm.cs",
+              "RelativeToolTip": "GroceryStore\\OrdersForm.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:10:09.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\OrdersForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\OrdersForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\OrdersForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\OrdersForm.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAawFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:10:23.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPaymentsForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminPaymentsForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminPaymentsForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminPaymentsForm.cs",
+              "RelativeToolTip": "GroceryStore\\AdminPaymentsForm.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAIAwwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:37:53.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminDashboard.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminDashboard.cs",
+              "RelativeToolTip": "GroceryStore\\AdminDashboard.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAiwO0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:43:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminOrdersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminOrdersForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminOrdersForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminOrdersForm.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\AdminOrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:46:57.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminOrdersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminOrdersForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminOrdersForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminOrdersForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\AdminOrdersForm.Designer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:47:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAIAwwO4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:42:54.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminPaymentsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminPaymentsForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminPaymentsForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminPaymentsForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\AdminPaymentsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:37:27.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckoutForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CheckoutForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CheckoutForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CheckoutForm.cs",
+              "RelativeToolTip": "GroceryStore\\CheckoutForm.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAqwN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:25:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CheckoutForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CheckoutForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CheckoutForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CheckoutForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\CheckoutForm.Designer.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAqwOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:25:21.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProductForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\ProductForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProductForm.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:41:02.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProductForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\ProductForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProductForm.cs",
+              "RelativeToolTip": "GroceryStore\\ProductForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAMUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:38.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CartForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CartForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CartForm.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:07:57.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CartForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CartForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CartForm.cs",
+              "RelativeToolTip": "GroceryStore\\CartForm.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:08:01.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CheckoutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CheckoutForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CheckoutForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CheckoutForm.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\CheckoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:24:55.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CustomerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CustomerDashboard.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CustomerDashboard.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\CustomerDashboard.Designer.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAkwBMBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:31:57.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\ProductForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProductForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\ProductForm.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:05.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CustomerDashboard.cs",
+              "RelativeToolTip": "GroceryStore\\CustomerDashboard.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAqwOoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:31:14.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminDashboard.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:33:00.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminProductsForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminProductsForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminProductsForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminProductsForm.cs",
+              "RelativeToolTip": "GroceryStore\\AdminProductsForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:12:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminProductsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminProductsForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminProductsForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminProductsForm.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\AdminProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:12:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminProductsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminProductsForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\AdminProductsForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\AdminProductsForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\AdminProductsForm.Designer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:13:13.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Program.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Program.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Program.cs",
+              "RelativeToolTip": "GroceryStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:41:26.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Login.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Login.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Login.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:33:20.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Login.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Login.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Login.cs",
+              "RelativeToolTip": "GroceryStore\\Login.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:40:58.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\UserSession.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\UserSession.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\UserSession.cs",
+              "RelativeToolTip": "GroceryStore\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:56:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\ProfileForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProfileForm.cs",
+              "RelativeToolTip": "GroceryStore\\ProfileForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:19:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProfileForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProfileForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\ProfileForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProfileForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\ProfileForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:19:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CartForm.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\CartForm.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\CartForm.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\CartForm.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAqwIcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:08:52.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "signup.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\signup.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\signup.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\signup.cs",
+              "RelativeToolTip": "GroceryStore\\signup.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:01:14.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\ProfileForm.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:17:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Signup.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Signup.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Signup.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Signup.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\Signup.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwF8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:41:57.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Loading.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Loading.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Loading.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Loading.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\Loading.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:39:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\signup.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\signup.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\signup.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:46:44.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\loading.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\loading.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\loading.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T16:47:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/groceryshop_signUp/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/groceryshop_signUp/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-21T17:35:04.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\loading.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\loading.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\loading.cs",
+              "RelativeToolTip": "GroceryStore\\loading.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:41:28.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Login.Designer.cs",
+              "ToolTip": "C:\\Rashed\\C# Program\\Grocery_store\\GroceryStore\\GroceryStore\\Login.Designer.cs",
+              "RelativeToolTip": "GroceryStore\\Login.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:36:43.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
